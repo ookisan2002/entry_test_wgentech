@@ -215,7 +215,7 @@
         padding: 1.25rem;
         display: flex;
         flex-direction: column;
-        gap: 2.5rem;
+        gap: 1rem;
         justify-content: end;
         border-radius: 1rem;
         background-color: #F4F0EA;
@@ -232,7 +232,7 @@
     .section_2 [class*='row_'] .card_container .card_content {
         display: grid;
         grid-template-columns: 1fr;
-        gap: 1.5rem;
+        gap: 0.5rem;
     }
 
     .section_2 [class*='row_'] .card_container h3 {
