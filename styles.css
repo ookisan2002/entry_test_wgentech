@@ -46,6 +46,10 @@
     width: 50.625rem;
 }
 
+.lorem_ullamco .section_text:last-child {
+    margin-top: 1rem;
+}
+
 .section_2 {
     display: grid;
     grid-template-columns: 1fr;
